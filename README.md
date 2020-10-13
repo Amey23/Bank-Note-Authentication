@@ -16,3 +16,4 @@ After successful execution of above command, run the last command.
 ```
 flask run
 ```
+App will run on http://127.0.0.1:5000/, run it in browser.
