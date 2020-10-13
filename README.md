@@ -8,4 +8,11 @@ Write the following command in your command prompt.
 ```
 pip install -r requirements.txt
 ```
-3. 
+3. After successfully installing all the required packages, run the flask web app.
+```
+set FLASK_APP = app.py
+```
+After successful execution of above command, run the last command.
+```
+flask run
+```
